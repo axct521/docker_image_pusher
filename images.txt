@@ -17,3 +17,4 @@ xiaoyaliu/alist:latest
 #python:3.8.19
 rabbitmq:3.13.6-management-alpine
 rabbitmq:management-alpine
+openproject/openproject:16
